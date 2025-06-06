@@ -61,13 +61,13 @@ Escolha uma opção:\n
 \nGostaria de agendar? Digite *AGENDAR*`);
   }
 
-  else if (texto.includes('5') || texto.includes('agendar')) {
-    msg.reply(`📅 *AGENDAMENTO* 📅\n
+else if (texto.includes('5') || texto.includes('agendar')) {
+  msg.reply(`📅 *AGENDAMENTO* 📅\n
 Por segurança, nossa *assistente Cristina* vai finalizar seu agendamento:\n
 📲 *Chame no WhatsApp:* 81 98558-0067\n
 ⏳ Horários disponíveis:\n
-- Segunda a sexta: 8h às 18h\n`);
-  }
+- Segunda a sexta: 8h às 18h`);
+}
 
   else if (texto.includes('6') || texto.includes('cristina') || texto.includes('dúvida')) {
     msg.reply(`👩‍💼 *CRISTINA* - Assistente pessoal\n
