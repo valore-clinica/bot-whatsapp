@@ -78,7 +78,8 @@ else if (texto.includes('4') || texto.includes('colágeno')) {
     - Agendamentos\n
     - Formas de pagamento\n
     - Dúvidas pessoais\n
-    \n*Horário de atendimento:* 8h às 18h (seg a sex)`);
+    \n*Horário de atendimento:* 
+    - Segunda a sexta: 8h às 18h`);
   }
 
   else {
