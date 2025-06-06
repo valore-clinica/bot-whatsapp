@@ -47,7 +47,7 @@ Escolha uma opção:\n
 
   else if (texto.includes('3') || texto.includes('botox')) {
     msg.reply(`*Aplicação de BOTOX*\n
-- *Valor:* R$ 699,90 (4 regiões)\n
+- *Valor:* R$ 799,90 (4 regiões)\n
 - *Duração:* 40 min\n
 - *Resultado:* início com 7 dias pós aplicação\n
 \nGostaria de agendar? Digite *AGENDAR*`);
